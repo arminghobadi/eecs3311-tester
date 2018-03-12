@@ -1,4 +1,5 @@
-# oracle diffing tool for yorku eecs-3311 assignments (EIFFEL projects)
+# oracle diffing tool for yorku eecs-3311 assignments
+# (for EIFFEL projects)
 
 ## contents
 
